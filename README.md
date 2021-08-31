@@ -19,4 +19,4 @@ Consult the `spiral_extrude.scad` file for more examples.
 
 ## License
 
-This work is licensed under a [GNU General Public License, version 2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+This work is licensed under a [GNU General Public License, version 2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html). You can also read about it in the [LICENSE.md](LICENSE.md) file.
